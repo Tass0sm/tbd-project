@@ -1,0 +1,15 @@
+* Ideas for things to Use
+
+1. Common Lisp
+2. =...=
+
+* Ideas for Software Medium
+
+1. CLI Program
+2. GUI Program
+3. Full Stack Web Application
+
+* Ideas for Software Purpose
+
+1. Todo Management
+2. =...=
